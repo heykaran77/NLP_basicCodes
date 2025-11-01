@@ -22,7 +22,7 @@ Welcome to **NLP_basicCodes**, a collection of simple and well-documented Natura
 
 ## 🚀 About This Repository
 
-This repository is a collection of **VTU NLP lab and skill enhancement mini-projects** created by **Karan Singh V (1AT22CS047)** during the 7th semester.  
+This repository is a collection of **Basic NLP programs**.  
 Each folder contains:
 
 - Python code files (`.py` or `.ipynb`)
@@ -58,9 +58,7 @@ Hindi: शिक्षा दुनिया को बदलने का स�
 
 ## 🧑‍💻 Author
 
-**Karan Singh V**  
-USN: _1AT22CS047_  
-7th Semester — _VTU, NLP Skill Enhancement Activity_
+**Karan Singh V** 
 
 📬 [GitHub Profile](https://github.com/heykaran77)
 
@@ -78,5 +76,3 @@ USN: _1AT22CS047_
 
 - Chatbot
 - Sentiment Analysis
-- Question Answering System
-- WordNet-based Applications
